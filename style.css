@@ -1,0 +1,19 @@
+.carousel-item{
+    height: 500px;
+}
+
+.caorousel-Picture01-1{
+    background-image: url('Picture01/MyGit.png');
+    background-size: cover;
+
+}
+.caorousel-Picture01-2{
+    background-image: url('Picture01/pic2MyBes.jpg');
+    background-size: cover;
+
+}
+.caorousel-Picture01-3{
+    background-image: url('Picture01/pic5.jpg');
+    background-size: cover;
+
+}
