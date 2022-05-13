@@ -1,10 +1,7 @@
 body{
     font-family: 'Noto Sans Thai', sans-serif;
     font-family: 'Thasadith', sans-serif;
-}
-
-.carousel-item{
-    height: 500px;
+    background: #0a131d;
 }
 
 .carousel-Picture01-1{
