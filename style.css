@@ -1,19 +1,22 @@
+body{
+    font-family: 'Noto Sans Thai', sans-serif;
+    font-family: 'Thasadith', sans-serif;
+}
+
 .carousel-item{
     height: 500px;
 }
 
-.caorousel-Picture01-1{
+.carousel-Picture01-1{
     background-image: url('Picture01/MyGit.png');
     background-size: cover;
-
 }
-.caorousel-Picture01-2{
+.carousel-Picture01-2{
     background-image: url('Picture01/pic2MyBes.jpg');
     background-size: cover;
 
 }
-.caorousel-Picture01-3{
+.carousel-Picture01-3{
     background-image: url('Picture01/pic5.jpg');
     background-size: cover;
-
 }
